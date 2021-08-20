@@ -1,0 +1,43 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+    padding-top: 10px;
+}
+
+.heading_div {
+    float:none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_div2 {
+    font-size: 18px;
+}
+
+.object {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: honeydew;
+    background-color: indianred;
+    text-align: center;
+    line-height: 3;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+canvas {
+    border: 5px solid honeydew;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
